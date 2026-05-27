@@ -48,37 +48,39 @@ Shopify theme work focused on modular sections/blocks/snippets, strong design sy
 - Manarika (Skeleton-style scaffolding): https://github.com/Ahmad4041/manarika_shopify_theme
 - Studio Chelsea implementation brief: https://github.com/Ahmad4041/search?type=repositories&q=studio_clease_theme
 
-## Tech Stack / Skills
+## Skills (Project-Aligned)
 
-**AI Agents & Orchestration**
-- Agent lifecycle + tool-call management patterns
-- Real-time updates (WebSockets / Socket.IO)
-- Systems thinking: governance, budgets, and task coordination
+### AI Systems & Orchestration
+- Agent lifecycle management (tasks, workspaces, tool calls, approval/reject flows)
+- Real-time coordination (Socket.IO / WebSockets)
+- Multi-agent “company” governance (budgets/cost control, org charts, persistent tracking)
 
-**Frontend**
-- React, TypeScript, Vite
-- Tailwind CSS + component libraries (shadcn/ui)
-- Zustand (state management)
-- Alpine.js + Chart.js for dashboard-style UIs
+### Frontend & UI Engineering
+- React 18 + TypeScript + Vite
+- Tailwind CSS + `shadcn/ui`
+- Zustand for client state
+- Dashboard UI patterns with Alpine.js + Chart.js (Medical Billing SaaS)
+- Routing: `react-router-dom`
 
-**Backend & Scraping**
-- Express.js APIs
-- Scraping: Axios + Cheerio + Puppeteer
-- Queues + workers (BullMQ)
-- Caching/rate limiting + proxy rotation concepts
-- Observability: Winston logging + Prometheus metrics
-- Data validation: Zod
+### Backend, Scraping & Data Pipelines
+- REST APIs with Express.js (TypeScript)
+- Scraping stack: Axios + Cheerio + Puppeteer
+- Workers/queues: BullMQ + Redis (`ioredis`)
+- Reliability patterns: retry/backoff + queue-based processing
+- Storage: PostgreSQL (`pg`)
+- Observability: Winston logs + Prometheus metrics (`prom-client`)
+- Schema validation: Zod
 
-**Quality & Delivery**
-- ESLint + Prettier
-- Jest/Vitest testing strategies
-- Playwright for e2e-style testing (where applicable)
-- Docker-ready services
+### Testing & Delivery
+- Jest / Vitest testing strategies
+- Playwright for end-to-end/browser testing (where applicable)
+- Docker-ready workflows
+- ESLint + Prettier + typecheck
 
-**Shopify**
-- Liquid theme development (sections/blocks/snippets/layout)
-- Shopify Theme 2.0 architecture + settings schemas
-- Theme-specific JS/CSS mechanics
+### Shopify Theme Engineering
+- Shopify Theme 2.0 architecture (sections/blocks/snippets/templates) + locales
+- Liquid components + schema-driven theme settings
+- Theme JS/CSS structure for performance and maintainability
 
 ## How I Work
 
