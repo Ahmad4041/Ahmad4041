@@ -5,10 +5,11 @@
 ### Full-Stack Engineer · AI Agent Orchestration · Shopify · Flutter
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ahmad4041-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmad4041)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahmadnaeem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmadnaeem)
+[![Email](https://img.shields.io/badge/Email-ahmadnaeem4041@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadnaeem4041@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Melbourne%2C+Australia-0077B6?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+production+SaaS+at+Software+Systems+US;Multi-agent+platforms+%7C+NestJS+%7C+Next.js;E-commerce+pipelines+%7C+Flutter+fintech;Queues%2C+retries%2C+type+safety%2C+real+shipping" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=false&vCenter=true&width=800&lines=Building+production+SaaS+at+Software+Systems+US;Multi-agent+platforms+%7C+NestJS+%7C+Next.js;E-commerce+pipelines+%7C+Flutter+fintech;Queues%2C+retries%2C+type+safety%2C+real+shipping" alt="Typing intro" />
 
 </div>
 
@@ -27,6 +28,8 @@ Over the past year I've shipped:
 - **Shopify + WordPress** theme builds with Playwright QA and Lighthouse audits
 
 I care about **reliability**: queues, retries, health checks, type safety, and docs that agents (and humans) can follow.
+
+Currently building solutions at **Software Systems US**. **Master's in Applied AI.** Based in **Melbourne, Australia**.
 
 ---
 
@@ -167,8 +170,8 @@ I care about **reliability**: queues, retries, health checks, type safety, and d
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/github-Ahmad4041-181717?style=for-the-badge&logo=github)](https://github.com/Ahmad4041)
-[![LinkedIn](https://img.shields.io/badge/linkedin-@ahmadnaeem-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-handle/)
-[![Email](https://img.shields.io/badge/email-your--email@example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-mahmadnaeem-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmadnaeem)
+[![Email](https://img.shields.io/badge/email-ahmadnaeem4041@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadnaeem4041@gmail.com)
 
 </div>
 
