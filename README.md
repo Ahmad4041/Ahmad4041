@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-ahmadnaeem4041@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadnaeem4041@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Melbourne%2C+Australia-0077B6?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=false&vCenter=true&width=800&lines=Building+production+SaaS+at+Software+Systems+US;Multi-agent+platforms+%7C+NestJS+%7C+Next.js;E-commerce+pipelines+%7C+Flutter+fintech;Queues%2C+retries%2C+type+safety%2C+real+shipping" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=false&vCenter=true&width=800&lines=Building+production+SaaS+at+Software+US;Multi-agent+platforms+%7C+NestJS+%7C+Next.js;E-commerce+pipelines+%7C+Flutter+fintech;Queues%2C+retries%2C+type+safety%2C+real+shipping" alt="Typing intro" />
 
 </div>
 
